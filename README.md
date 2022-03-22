@@ -8,6 +8,6 @@
 a `18` - year old Node developer mainly, and also in other languages ​​like Python, C, Ada or Java. I also work a bit on WebDevelopment (HTML, CSS). skilled in self-learning and autonomous research on the internet !
 Lover of music and photography.
 
-<p align="center"><img src="https://skillicons.dev/icons?i=bash,c,css,bots,discord,eclipse,git,gtk,html,java,js,linux,mysql,nodejs,pr,py,vscode"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,js,java,c,py,html,bash,mysql,bots,discord,git,gtk,linux,pr,vscode"/></p>
 
 > Thanks for checking out my profile. [![Profile Automation](https://img.shields.io/github/workflow/status/promise/promise/README%20Update?label=automation)](https://github.com/promise/promise/actions/workflows/README.yml)
