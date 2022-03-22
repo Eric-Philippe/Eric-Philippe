@@ -1,6 +1,6 @@
 [![discord:status](https://dev.discordprofiles.me/badge/status/387291278670430208)](https://discord.com/users/387291278670430208)
 [![discord:playing](https://dev.discordprofiles.me/badge/playing/387291278670430208)](https://discord.com/users/387291278670430208)
-[![discord:vscode](Writer Stats System)
+[![discord:vscode](WriterStatsSystem)](WriterStatsSystem)
 [![discord:spotify](https://dev.discordprofiles.me/badge/spotify/387291278670430208)](https://dev.discordprofiles.me/openspotify/387291278670430208)
 
 # 👋 I'm Eric !
