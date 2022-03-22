@@ -10,4 +10,4 @@ Lover of music and photography.
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,js,java,c,py,html,bash,mysql,bots,discord,git,gtk,linux,pr,vscode"/></p>
 
-> Thanks for checking out my profile. [![Profile Automation](https://img.shields.io/github/workflow/status/promise/promise/README%20Update?label=automation)](https://github.com/promise/promise/actions/workflows/README.yml)
+> Thanks for checking out my profile.
