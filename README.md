@@ -6,7 +6,7 @@
 
 - 📫 You can contact me on **Discord @ Sunrise#1318**
 
-- 📷 My Instagram where I post all my pics' ! [Instagram](https://www.instagram.com/eir_horizon_/)
+- 📷 My [Instagram](https://www.instagram.com/eir_horizon_/) where I post all my pics' !
 
 - 🎵 My Current favorite song : **Jonah's Whale - Jon Allen**
 
