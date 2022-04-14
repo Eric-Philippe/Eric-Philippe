@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Bot Writer Stats](https://github.com/WriterStats)
 
-- 🌱 I plan to learn **VueJS** and also have a lot of new projects coming in **Python** and **NodeJS** !
+- 🌱 I plan to learn **AngularJS** and also have a lot of new projects coming in **Python** and **NodeJS** !
 
 - 📫 You can contact me on **Discord @ Sunrise#1318**
 
