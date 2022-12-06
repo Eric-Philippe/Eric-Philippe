@@ -6,7 +6,7 @@
 
 - ✨ A huge project is waiting to be started, it will includes a fullstack dev (DiscordBot [NodeJs], Website plateform [VueJs or PhP], Database [MySQL], backend [TBD] !
 
-- 🌱 I plan to learn **NextJs** and also have a lot of new projects coming in **Python** and **NodeJS** !
+- 🌱 I plan to learn **NextJs** and also have a lot of new projects coming in **TypeScript** and **Java** !
 
 - 📫 You can contact me on **Discord @ Sunrise#1318**
 
