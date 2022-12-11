@@ -19,6 +19,6 @@ I'm a `19` - year old Node developer mainly, and also in other languages ​​l
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,js,java,c,py,html,bash,mysql,bots,discord,git,gtk,linux,pr,vscode"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Philippe&layout=compact&langs_count=10&exclude_repo=WebCat,Glitch-Against-Humanity,Welcome-to-the-Cril,api-visunotes-tlse" width=55%/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Philippe&layout=compact&langs_count=10&exclude_repo=WebCat,Glitch-Against-Humanity,Welcome-to-the-Cril,api-visunotes-tlse,Cril-Bot-main" width=55%/></p>
 
 > Thanks for checking out my profile.
