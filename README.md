@@ -126,7 +126,7 @@ Check out my `Social Media` just below !
 
 |                                                                   | Language | Level  | Project Examples                                                         |
 | ----------------------------------------------------------------- | -------- | ------ | ------------------------------------------------------------------------ |
-| <img src="https://skillicons.dev/icons?i=mysql" width="40px" />   | `SQL`    | ⭐⭐⭐ | [Kairos Bot Reminder](https://github.com/Eric-Philippe?tab=repositories) |
+| <img src="https://skillicons.dev/icons?i=mysql" width="40px" />   | `MySQL`  | ⭐⭐⭐ | [Kairos Bot Reminder](https://github.com/Eric-Philippe?tab=repositories) |
 | <img src="https://skillicons.dev/icons?i=autocad" width="40px" /> | `Access` | ⭐⭐   | [School Projects]()                                                      |
 
 <font size="+2">. . .</font>
