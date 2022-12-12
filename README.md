@@ -83,7 +83,7 @@ Check out my `Social Media` just below !
 
 ## 💻 **Languages -**
 
- <img src="https://skillicons.dev/icons?i=nodejs,ts,py,julia,java,kotlin,autocad,cs,cpp" width="400px" />
+ <img src="https://skillicons.dev/icons?i=nodejs,ts,py,julia,java,kotlin,autocad,cs,cpp" width="462px" />
 
 <font size="+2">. . .</font>
 
@@ -91,7 +91,7 @@ Check out my `Social Media` just below !
 
 ## 🌐 **Web Development -**
 
- <img src="https://skillicons.dev/icons?i=html,css,js,php,angular" width="210px" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,php,angular" width="235px" />
 
 <font size="+2">. . .</font>
 
@@ -99,7 +99,7 @@ Check out my `Social Media` just below !
 
 ## 📦 **Database -**
 
- <img src="https://skillicons.dev/icons?i=mysql,autocad,mongo">
+ <img src="https://skillicons.dev/icons?i=mysql,autocad,mongo" width="155px">
 
 <font size="+2">. . .</font>
 
