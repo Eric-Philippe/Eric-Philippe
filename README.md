@@ -36,13 +36,13 @@ Lover of **music**🎧 and **photography** 📷
 
 - 🔭 I’m working on refactoring all my previous projects !
 
-- ✨ A huge project is waiting to be started, it will includes a fullstack dev (DiscordBot `NodeJs`, Website plateform `VueJs` or `PhP`, Database `MySQL`, backend `TBD` !
+- ✨ My current project is a book library website ! It includes a fullstack dev (Website framework `ReactTs`, Database `PostgreSQL`, backend `ExpressTs` !
 
-- 🌱 I plan to learn **`NextJs`** and also have a lot of new projects coming in **`TypeScript`** and **`Java`** !
+- 🌱 I plan to learn others web frameworks like **`NextJs`** or **`VueJs`** and also have a lot of new projects coming in **`TypeScript`** and **`Java`** !
 
 - 🎵 My Current favorite song : **No Good - KALEO**
 
-- 📫 You can contact me on **Discord @ Sunrise#1318**
+- 📫 You can contact me on **Discord @zaorhion**
 
 ---
 
