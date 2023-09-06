@@ -91,7 +91,7 @@ Check out my `Social Media` just below !
 
 ## 🌐 **Web Development -**
 
- <img src="https://skillicons.dev/icons?i=html,css,js,php,angular,react" width="235px" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,php,angular,react" width="255px" />
 
 <font size="+2">. . .</font>
 
