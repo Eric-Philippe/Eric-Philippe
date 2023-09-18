@@ -26,7 +26,7 @@
 
 ---
 
-I'm a `20` - year old developer in `NodeJs/Ts` and `Java` mainly, and also in other languages ​​like `Python`, `Julia`. I also work on WebDevelopment (`HTML, CSS`). Skilled in self-learning and autonomous research on the internet !
+I'm a `20` - year old developer in `JavaScrript and TypeScript` with `Node and Bun` and `Java` mainly, and also in other languages ​​like `Python`, `Julia`. I also work on WebDevelopment (`HTML, CSS`). Skilled in self-learning and autonomous research on the internet !
 
 Lover of **music**🎧 and **photography** 📷
 
@@ -99,7 +99,7 @@ Check out my `Social Media` just below !
 
 ## 📦 **Database -**
 
- <img src="https://skillicons.dev/icons?i=mysql,autocad,mongo" width="155px">
+ <img src="https://skillicons.dev/icons?i=mysql,autocad,mongo,sqlite" width="155px">
 
 <font size="+2">. . .</font>
 
