@@ -118,5 +118,3 @@ Check out my `Social Media` just below !
 ---
 
 ## 👋 Thanks for checking out my profile !! 👋
-
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
