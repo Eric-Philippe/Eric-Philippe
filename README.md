@@ -26,7 +26,7 @@
 
 ---
 
-I'm a `20` - year old developer in `JavaScrript and TypeScript` with `Node and Bun` and `Java` mainly, and also in other languages ​​like `Python`, `Julia`. I also work on WebDevelopment (`HTML, CSS`). Skilled in self-learning and autonomous research on the internet !
+I'm a `20` - year old developer in `JavaScript and TypeScript` with `Node and Bun` and `Java` mainly, and also in other languages ​​like `Python`, `Julia`. I also work on WebDevelopment (`HTML, CSS`). Skilled in self-learning and autonomous research on the internet !
 
 Lover of **music**🎧 and **photography** 📷
 
