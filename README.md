@@ -32,6 +32,10 @@ Lover of **music**🎧 and **photography** 📷
 
 ---
 
+Checkout my Portfolio at : https://eric-philippe.github.io/portfolio/ !
+
+---
+
 - 💼 I'm currently working at [`ADP Gsi`](https://www.fr.adp.com) !
 
 - 🔭 I’m working on refactoring all my previous projects !
