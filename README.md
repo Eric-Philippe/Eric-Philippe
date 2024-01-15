@@ -38,9 +38,7 @@ Checkout my Portfolio at : https://eric-philippe.github.io/portfolio/ !
 
 - 💼 I'm currently working at [`ADP Gsi`](https://www.fr.adp.com) !
 
-- 🔭 I’m working on refactoring all my previous projects !
-
-- ✨ My current project is a book library website ! It includes a fullstack dev (Website framework `ReactTs`, Database `PostgreSQL`, backend `ExpressTs` !
+- ✨ My current project is my Portfolio ! It includes my dev projects and my photos, it'a frontend dev (Website framework `ReactTs`) !
 
 - 🌱 I plan to learn others web frameworks like **`NextJs`** or **`VueJs`** and also have a lot of new projects coming in **`TypeScript`** and **`Java`** !
 
