@@ -6,11 +6,7 @@
     >
 </div>
 
-<p
-style="text-align: center;
-font-size: 10px;
-"
-> <a href="EP.java">Code Fonctionnel</a>, pour déterminer les décimales de PI avec la méthode de Gauss-Legendre </p>
+<small style="text-align: center;"> <a href="EP.java">Code Fonctionnel</a>, pour déterminer les décimales de PI avec la méthode de Gauss-Legendre </small>
 
 ---
 

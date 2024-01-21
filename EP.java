@@ -2,7 +2,6 @@
  * Calcul PI avec la méthode de Gauss-Legendre
  * Eric PHILIPPE - 2024
  */
-
 import java.util.Random;            import java.util.List;
 public class EP { public            static void piD (int n){
 int[] x = new int[n + 1];           int[] y = new int[n + 1];
