@@ -1,6 +1,22 @@
 <h1 align="center">Hey World, it's me Eric 👋 !</h1>
 
 <div align="center">
+    <img src="EP.png" 
+    style="height: 300px;"
+    >
+</div>
+
+<p
+style="text-align: center;
+font-size: 10px;
+"
+> <a href="EP.java">Code Fonctionnel</a>, pour déterminer les décimales de PI avec la méthode de Gauss-Legendre </p>
+
+---
+
+<br />
+
+<div align="center">
 
 <img src="https://img.shields.io/github/followers/Eric-Philippe?style=social">
 ‎
@@ -21,6 +37,8 @@
 ‎
 ‎
 <img src="https://img.shields.io/badge/Fuelled%20By-ChocoChaud-orange">
+
+<br />
 
 </div>
 
