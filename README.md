@@ -25,7 +25,7 @@
 ‎
 ‎
 ‎
-<img src="https://img.shields.io/badge/Alive-I%20guess-?-red">
+<img src="https://img.shields.io/badge/Alive-I%20hope%20so-red">
 ‎
 ‎
 ‎
@@ -54,7 +54,7 @@ Checkout my Portfolio at : https://eric-philippe.github.io/portfolio/ !
 
 - 💼 I'm currently working at [`ADP Gsi`](https://www.fr.adp.com) !
 
-- 🌱 My professional growth trajectory involves delving into various server architectures, notably TCP, for facilitating direct user-to-user communication, with a focus on implementations in C#.
+- 🕹️ My professional growth trajectory involves delving into various server architectures, notably TCP, for facilitating direct user-to-user communication, with a focus on implementations in C#.
 
 - 🌱  I plan to elevate my proficiency in web styling by immersing myself in tools like `Figma` and undertaking `CSS` courses in order to complements my grasp of web frameworks fostering a comprehensive skill set in web development.
 
