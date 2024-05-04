@@ -25,7 +25,7 @@
 ‎
 ‎
 ‎
-<img src="https://img.shields.io/badge/Alive-I%20guess-red">
+<img src="https://img.shields.io/badge/Alive-I%20guess-?-red">
 ‎
 ‎
 ‎
@@ -42,9 +42,9 @@
 
 ---
 
-I'm a `20` - year old developer in `JavaScript and TypeScript` with `Node and Bun` and `Java` mainly, and also in other languages ​​like `Python`, `Julia`. I also work on WebDevelopment (`HTML, CSS`). Skilled in self-learning and autonomous research on the internet !
+I'm a `21-year-old` self-taught developer primarily proficient in `TypeScript`, `JavaScript`, and `Java`, with additional experience in languages such as `Python`, `Julia`, and `C#`. I also specialize in web development, particularly in `Angular` and `React`. Skilled in self-learning and conducting independent research online!
 
-Lover of **music**🎧 and **photography** 📷
+Lover of **music**🎧, **photography** 📷 and **wood work** 🪵
 
 ---
 
@@ -54,9 +54,9 @@ Checkout my Portfolio at : https://eric-philippe.github.io/portfolio/ !
 
 - 💼 I'm currently working at [`ADP Gsi`](https://www.fr.adp.com) !
 
-- ✨ My current project is my Portfolio ! It includes my dev projects and my photos, it'a frontend dev (Website framework `ReactTs`) !
+- 🌱 My professional growth trajectory involves delving into various server architectures, notably TCP, for facilitating direct user-to-user communication, with a focus on implementations in C#.
 
-- 🌱 I plan to learn others web frameworks like **`NextJs`** or **`VueJs`** and also have a lot of new projects coming in **`TypeScript`** and **`Java`** !
+- 🌱  I plan to elevate my proficiency in web styling by immersing myself in tools like `Figma` and undertaking `CSS` courses in order to complements my grasp of web frameworks fostering a comprehensive skill set in web development.
 
 - 🎵 My Current favorite song : **No Good - KALEO**
 
