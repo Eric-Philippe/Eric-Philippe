@@ -81,7 +81,7 @@
       },
       {
         "colorScheme": "VpsSsh-ColorScheme",
-        "commandline": "ssh ericp@141.94.246.125",
+        "commandline": "ssh ericp@141.94.246.126",
         "guid": "{cba509da-2ac2-4369-949f-f60fe4030025}",
         "hidden": false,
         "name": "VPS Bot",
