@@ -131,7 +131,8 @@ Check out my `Social Media` just below !
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Philippe&layout=compact&langs_count=10&exclude_repo=WebCat,Glitch-Against-Humanity,Welcome-to-the-Cril,api-visunotes-tlse" width=55%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Philippe&layout=compact&langs_count=10&exclude_repo=WebCaty,Welcome-to-the-Cril,api-visunotes-tlse
+" width=55%/>
 
 ---
 
