@@ -109,7 +109,7 @@ Check out my `Social Media` just below !
 
 ## 🌐 **Web Development -**
 
- <img src="https://skillicons.dev/icons?i=html,css,js,php,angular,react" width="255px" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,,npm,ts,php,angular,react,vite" width="255px" />
 
 <font size="+2">. . .</font>
 
@@ -117,7 +117,7 @@ Check out my `Social Media` just below !
 
 ## 📦 **Database -**
 
- <img src="https://skillicons.dev/icons?i=mysql,autocad,mongo,sqlite" width="155px">
+ <img src="https://skillicons.dev/icons?i=postgres,mysql,autocad,mongo,sqlite" width="155px">
 
 <font size="+2">. . .</font>
 
@@ -128,6 +128,12 @@ Check out my `Social Media` just below !
  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,ps,bash,linux">
 
 <font size="+2">. . .</font>
+
+## **🛜 DevOps -**
+
+ <img src="https://skillicons.dev/icons?i=grafana,prometheus,docker,jenkins,github">
+
+<font size="2+">. . .</font>
 
 ---
 
