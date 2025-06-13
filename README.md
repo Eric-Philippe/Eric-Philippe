@@ -42,13 +42,13 @@
 
 ---
 
-I'm a `21-year-old` self-taught developer primarily proficient in `TypeScript`, `JavaScript`, and `Java`, with additional experience in languages such as `Python`, `Julia`, and `C#`. I also specialize in web development, particularly in `Angular` and `React`. Skilled in self-learning and conducting independent research online!
+I'm a `22-year-old` self-taught developer primarily proficient in `TypeScript`, `JavaScript`, and `Java`, with additional experience in languages such as `Python`, `Julia`, and `C#`. I also specialize in web development, particularly in `Angular` and `React`. Skilled in self-learning and conducting independent research online!
 
 Lover of **music**🎧, **photography** 📷 and **wood work** 🪵
 
 ---
 
-Checkout my Portfolio at : https://eric-philippe.github.io/portfolio/ !
+Checkout my Portfolio at : https://ericphlpp.com !
 
 ---
 
