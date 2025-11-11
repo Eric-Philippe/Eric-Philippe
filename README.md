@@ -42,9 +42,9 @@
 
 ---
 
-I'm a `22-year-old` self-taught developer primarily proficient in `TypeScript`, `JavaScript`, and `Java`, with additional experience in languages such as `Python`, `Julia`, and `C#`. I also specialize in web development, particularly in `Angular` and `React`. Skilled in self-learning and conducting independent research online!
+I'm a `22-year-old` self-taught developer primarily proficient in `TypeScript, `Golang`and`Java`, with additional experience in languages such as `Python`, `Julia`, and `C#`. I also specialize in web development, particularly in `Angular`and`React`. Skilled in self-learning and conducting independent research online!
 
-Lover of **music**🎧, **photography** 📷 and **wood work** 🪵
+Lover of **music** 🎧, **photography** 📷
 
 ---
 
@@ -56,7 +56,7 @@ Checkout my Portfolio at : https://ericphlpp.com !
 
 - 🕹️ My professional growth trajectory involves delving into various server architectures, notably TCP, for facilitating direct user-to-user communication, with a focus on implementations in C#.
 
-- 🌱  I plan to elevate my proficiency in web styling by immersing myself in tools like `Figma` and undertaking `CSS` courses in order to complements my grasp of web frameworks fostering a comprehensive skill set in web development.
+- 🌱 I plan to elevate my proficiency in web styling by immersing myself in tools like `Figma` and undertaking `CSS` courses in order to complements my grasp of web frameworks fostering a comprehensive skill set in web development.
 
 - 🎵 My Current favorite song : **No Good - KALEO**
 
@@ -85,12 +85,6 @@ Check out my `Social Media` just below !
 ‎
 ‎
 ‎
-<a href="https://twitter.com/zaorhion"> <img src="https://skillicons.dev/icons?i=twitter" width=40/></a>
-‎
-‎
-‎
-‎
-‎
 <a href="https://www.linkedin.com/in/eric-philippe-800857252/"> <img src="https://skillicons.dev/icons?i=linkedin" width=40/></a>
 
 </div>
@@ -101,7 +95,7 @@ Check out my `Social Media` just below !
 
 ## 💻 **Languages -**
 
- <img src="https://skillicons.dev/icons?i=nodejs,ts,py,julia,java,kotlin,autocad,cs,cpp" width="462px" />
+ <img src="https://skillicons.dev/icons?i=nodejs,ts,py,julia,java,kotlin,cs,cpp,go,rust" width="462px" />
 
 <font size="+2">. . .</font>
 
@@ -109,7 +103,7 @@ Check out my `Social Media` just below !
 
 ## 🌐 **Web Development -**
 
- <img src="https://skillicons.dev/icons?i=html,css,js,npm,ts,php,angular,react,vite" width="255px" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,npm,bun,ts,php,angular,react,vite" width="255px" />
 
 <font size="+2">. . .</font>
 
@@ -137,7 +131,7 @@ Check out my `Social Media` just below !
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Philippe&layout=compact&langs_count=10&exclude_repo=Welcome-to-the-Cril,api-visunotes-tlse,CrilStatsFusion-Analitics,DartScore,Kairos-Bot-Reminder,Cril-Bot-main?Basic-Music-Manager-App&hide=twig,css,scss,html,javascript,ruby" width=55%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Philippe&layout=compact&langs_count=10&exclude_repo=Welcome-to-the-Cril,api-visunotes-tlse,CrilStatsFusion-Analitics,DartScore,Kairos-Bot-Reminder,Cril-Bot-main?Basic-Music-Manager-App&hide=twig,css,scss,html,javascript" width=55%/>
 
 ---
 
